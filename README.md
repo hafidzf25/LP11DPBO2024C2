@@ -1,4 +1,4 @@
-![image](https://github.com/hafidzf25/LP11DPBO2024C2/assets/117885795/865d2cf5-5259-48e4-9e08-13616d1443b4)# Janji
+# Janji
 Saya Abdullah Hafidz Furqon (2202729) mengerjakan Latihan Praktikum 11 dalam mata kuliah DPBO untuk keberkahan Nya maka saya tidak melakukan kecurangan seperti yang telah dispesikasikan. Aamiin
 
 # Desain Program
