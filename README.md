@@ -26,5 +26,7 @@ Tampilan Delete Data, dengan mengklik Button Delete
 
 
 # Record
+https://github.com/hafidzf25/LP11DPBO2024C2/assets/117885795/2d5f5a23-bcd2-452f-bca6-e30d4da4947b
+
 
 
