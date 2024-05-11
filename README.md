@@ -1,0 +1,2 @@
+# LP11DPBO2024C2
+Latihan Praktikum 11 DPBO
